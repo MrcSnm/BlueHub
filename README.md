@@ -1,5 +1,5 @@
 # BlueHub
-This is an interproject for connecting PS/2 Keyboard/Mouse to an Arduino, converting it to bluetooth and getting the input on Android
+This is an interproject for connecting PS/2 Keyboard, Mouse or any other device to an Arduino, using Arduino as it were an Hub, then, converting it to bluetooth and getting the input on Android
 
 <h1>Reasoning:</h1>
 <ul>
